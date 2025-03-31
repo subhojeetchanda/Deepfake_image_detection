@@ -1,6 +1,3 @@
-Okay, here's a `README.md` file content to go along with your Deepfake image generation code.  I've included sections for setup, usage, and some discussion of the approach.  Feel free to modify and expand this further based on your specific needs.
-
-
 # Deepfake Image Generation with DCGAN
 
 This project implements a Deep Convolutional Generative Adversarial Network (DCGAN) to generate deepfake images.  It uses PyTorch and the `torchvision` library for image handling and model building.
