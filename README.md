@@ -64,7 +64,9 @@ dataset/
 - Uses `Conv2d`, **LeakyReLU**, and `BatchNorm` layers.
 - The final layer applies a **Sigmoid** activation function.
 
-![cd899bd9-9c48-46ad-91e5-28c86ac86830](https://github.com/user-attachments/assets/2d707c2a-216c-4258-a3dc-b9ec0fd41bf5)
+
+<img width="1078" alt="Screenshot 2025-04-03 at 8 08 25 PM" src="https://github.com/user-attachments/assets/0ba8ac9f-dc7b-4b12-96f0-89336be49c26" />
+
 
 
 ---
